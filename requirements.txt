@@ -1,0 +1,8 @@
+# Function dependencies, for example:
+# package>=version
+pymysql
+pandas-gbq
+sshtunnel
+google.cloud.storage
+google.cloud.bigquery
+google-auth
